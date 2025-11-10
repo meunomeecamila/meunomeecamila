@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="textanim.gif" alt="Olá! Eu sou a Camila" width="350"/>
 
 <!--
 **meunomeecamila/meunomeecamila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
