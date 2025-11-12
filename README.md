@@ -4,7 +4,7 @@
 
 ```java
 class Camila {
-    String nome = "Camila";
+    String nome = "Camila Menezes";
     String curso = "Ciência da Computação";
     int periodo = 2;
 
