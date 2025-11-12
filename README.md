@@ -57,15 +57,6 @@ class Camila {
 
 ---
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meunomeecamila&layout=compact&langs_count=8&theme=default"/>
-</p>
-
----
-
-
 <h2 align="center">🚀 Projetos em Destaque</h2>
 
 <table align="center">
