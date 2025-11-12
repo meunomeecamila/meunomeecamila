@@ -14,7 +14,7 @@ class Camila {
     boolean praticaProgCompetitiva = true;
 
     String[] linguagensFavoritas = {
-        "C", "C++", "Java", "JavaScript", "Python"
+        "C", "C++", "Java", "Python"
     };
 }
 ```
