@@ -8,7 +8,6 @@ class Camila {
     String curso = "Ciência da Computação";
     int periodo = 2;
 
-    boolean gostaDeIA = true;
     boolean gostaDeBackend = true;
     boolean gostaDeEnsinar = true;
     boolean praticaProgCompetitiva = true;
