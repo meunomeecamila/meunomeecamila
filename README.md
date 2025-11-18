@@ -24,37 +24,37 @@ Markdown
 
 <p align="center">
   <b>Linguagens</b><br>
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-003B57?style=flat&logo=database&logoColor=white" />
+  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </p>
 
 <p align="center">
   <b>Frontend</b><br>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 </p>
 
 <p align="center">
   <b>Banco de Dados</b><br>
-  <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </p>
 
 <p align="center">
    <b>Cloud</b><br>
-  <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  <img align="center" alt="Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
 </p>
 
 <p align="center">
   <b>Ferramentas e Outras Tecnologias</b><br>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-</p>
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+</p>>
 
 <p align="center">
   <b>Ferramentas e Outras Tecnologias</b><br>
