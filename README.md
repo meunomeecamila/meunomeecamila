@@ -18,7 +18,6 @@ class Camila {
 }
 ```
 ---
-Markdown
 
 <h2 align="center">🧠 Linguagens e Tecnologias</h2>
 
