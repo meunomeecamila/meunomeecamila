@@ -6,7 +6,7 @@
 class Camila {
     String nome = "Camila Menezes";
     String curso = "Ciência da Computação";
-    int periodo = 2;
+    int periodo = 3;
 
     boolean gostaDeBackend = true;
     boolean gostaDeEnsinar = true;
