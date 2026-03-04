@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="textanim.gif" alt="Olá! Eu sou a Camila" width="350"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00AEEF&width=435&lines=Hello!+I+am+Camila" />
+</a>
 </p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=40E0D0&width=435&lines=Hello!+I+am+Camila)](https://git.io/typing-svg)
 
 ```java
 class Camila {
