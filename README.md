@@ -25,22 +25,15 @@ class Camila {
 }
 ```
 ---
+<h2 align="center">Technologies</h2>
 
-<h2 align="center">Tech Stack</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure-1a1a1a?style=flat-square&logo=microsoftazure&logoColor=white">
-</p>
+<table align="center">
+<tr>
+<td align="center"><b>Languages</b><br>C · C++ · Java · Python</td>
+<td align="center"><b>Backend</b><br>PostgreSQL · APIs · SQL</td>
+<td align="center"><b>Tools</b><br>Git · Linux · Azure</td>
+</tr>
+</table>
 ---
 
 <h2 align="center">🚀 Projetos em Destaque</h2>
