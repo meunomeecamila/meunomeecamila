@@ -10,9 +10,14 @@ class Camila {
     String curso = "Ciência da Computação";
     int periodo = 3;
 
+    // Áreas que eu gosto
     boolean gostaDeBackend = true;
     boolean gostaDeEnsinar = true;
     boolean praticaProgCompetitiva = true;
+    boolean gostaDeBancoDeDadosEIA = true;
+
+    // Minha experiência
+    String pesquisadoraCNPq = "Kids Online"
 
     String[] linguagensFavoritas = {
         "C", "C++", "Java", "Python"
