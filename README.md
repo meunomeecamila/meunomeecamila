@@ -25,13 +25,41 @@ class Camila {
 }
 ```
 ---
-<h2 align="center">Linguagens e tecnologias</h2>
+<h2 align="center">Áreas de Interesse</h2>
 
 <table align="center">
 <tr>
-<td align="center"><b>Languages</b><br>C · C++ · Java · Python</td>
-<td align="center"><b>Backend</b><br>PostgreSQL · APIs · SQL</td>
-<td align="center"><b>Tools</b><br>Git · Linux · Azure</td>
+<td align="center">
+<b>Inteligência Artificial</b><br>
+Machine Learning · NLP · Análise de Sentimentos
+</td>
+
+<td align="center">
+<b>Desenvolvimento Backend</b><br>
+APIs · Java · Banco de Dados · Arquitetura de Sistemas
+</td>
+
+<td align="center">
+<b>Ciência da Computação</b><br>
+Estruturas de Dados · Algoritmos · Programação Competitiva
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Pesquisa</b><br>
+Iniciação Científica · Análise de Dados · Projetos Acadêmicos
+</td>
+
+<td align="center">
+<b>Produto & Inovação</b><br>
+Gestão de Produto · Estratégia Tecnológica · UX
+</td>
+
+<td align="center">
+<b>Infraestrutura</b><br>
+Linux · Git · Computação em Nuvem · Azure
+</td>
 </tr>
 </table>
 ---
