@@ -25,7 +25,7 @@ class Camila {
 }
 ```
 ---
-<h2 align="center">Technologies</h2>
+<h2 align="center">Linguagens e tecnologias</h2>
 
 <table align="center">
 <tr>
@@ -41,7 +41,7 @@ class Camila {
 <table align="center">
   <tr>
     <td align="center">
-      <h3><a href="https://github.com/meunomeecamila/grwm-backend">🎨 GRWM – Get Ready With Me</a></h3>
+      <h3><a href="https://github.com/meunomeecamila/grwm-backend"> GRWM – Get Ready With Me</a></h3>
       <p>
         O seu mais novo guarda-roupa virtual, agora de forma sustentável.
         <br><b>Tecnologias:</b> Java · Spark · PostgreSQL · HTML · CSS · JavaScript · Azure
@@ -51,7 +51,7 @@ class Camila {
 
   <tr>
     <td align="center">
-      <h3><a href="https://github.com/meunomeecamila/Projetos-Java">🧩 Códigos em Java</a></h3>
+      <h3><a href="https://github.com/meunomeecamila/Projetos-Java"> Códigos em Java</a></h3>
       <p>
         Repositório com implementações em Java de estruturas lineares e flexíveis, algoritmos de ordenação, resumos para provas e exercícios
         <br><b>Tecnologias:</b> Java
@@ -61,7 +61,7 @@ class Camila {
 
   <tr>
     <td align="center">
-      <h3><a href="https://github.com/meunomeecamila/Projetos-C">🧩 Códigos em C</a></h3>
+      <h3><a href="https://github.com/meunomeecamila/Projetos-C"> Códigos em C</a></h3>
       <p>
         Repositório com implementações em C de estruturas lineares e flexíveis, algoritmos de ordenação, resumos para provas e exercícios
         <br><b>Tecnologias:</b> C
