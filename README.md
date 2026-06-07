@@ -17,7 +17,7 @@ class Camila {
     boolean gostaDeBancoDeDadosEIA = true;
 
     // Minha experiência
-    String pesquisadoraCNPq = "Kids Online"
+    String pesquisadoraCNPq = "Projeto Kids Online";
 
     String[] linguagensFavoritas = {
         "C", "C++", "Java", "Python"
