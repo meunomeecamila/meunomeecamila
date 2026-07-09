@@ -8,7 +8,7 @@
 class Camila {
     String nome = "Camila Menezes";
     String curso = "Ciência da Computação";
-    int periodo = 3;
+    int periodo = 4;
 
     // Áreas que eu gosto
     boolean gostaDeBackend = true;
