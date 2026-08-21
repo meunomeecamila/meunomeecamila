@@ -11,8 +11,8 @@ class Camila {
     int periodo = 4;
 
     // Áreas que eu gosto
-    boolean gostaDeBackend = true;
-    boolean gostaDeEnsinar = true;
+    boolean gostaDeBancoDeDados = true;
+    boolean monitora = true;
     boolean praticaProgCompetitiva = true;
     boolean gostaDeBancoDeDadosEIA = true;
 
